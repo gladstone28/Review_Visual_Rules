@@ -27,3 +27,5 @@ Incredible work! You used CSS to alter text and images on a website. Throughout 
 https://www.youtube.com/watch?v=InA5Ff7mxrc
 
 
+###### NB: memory note
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/CSS_VISUAL_RULES/lesson10_of_10_Review_Visual_Rules
